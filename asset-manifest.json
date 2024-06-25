@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/living-resume/static/css/main.ca57846c.css",
-    "main.js": "/living-resume/static/js/main.4f6bdd89.js",
+    "main.css": "/living-resume/static/css/main.07ced8da.css",
+    "main.js": "/living-resume/static/js/main.76f3d802.js",
+    "static/media/cmunci.ttf": "/living-resume/static/media/cmunci.f6d7498a76bded8660db.ttf",
+    "static/media/cmunui.ttf": "/living-resume/static/media/cmunui.efa92afa8b3b79bedd67.ttf",
+    "static/media/cmunrm.ttf": "/living-resume/static/media/cmunrm.8ff5cee913df84291549.ttf",
+    "static/media/cmunbx.ttf": "/living-resume/static/media/cmunbx.c97a73040fda7e3cb554.ttf",
     "index.html": "/living-resume/index.html",
-    "main.ca57846c.css.map": "/living-resume/static/css/main.ca57846c.css.map",
-    "main.4f6bdd89.js.map": "/living-resume/static/js/main.4f6bdd89.js.map"
+    "main.07ced8da.css.map": "/living-resume/static/css/main.07ced8da.css.map",
+    "main.76f3d802.js.map": "/living-resume/static/js/main.76f3d802.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca57846c.css",
-    "static/js/main.4f6bdd89.js"
+    "static/css/main.07ced8da.css",
+    "static/js/main.76f3d802.js"
   ]
 }
