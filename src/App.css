@@ -1,14 +1,86 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: 'CM Regular';
+  src: url('./fonts/cmunrm.ttf') format('truetype');
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@font-face {
+  font-family: 'CM Bold';
+  src: url('./fonts/cmunbx.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CM Italic';
+  src: url('./fonts/cmunci.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CM Regular Alt';
+  src: url('./fonts/cmunui.ttf') format('truetype');
+}
+
+.bullet-list-item {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 0.7em;
+}
+
+.bullet {
+  width: 0.4em;
+  height: 0.4em;
+  background-color: #000;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.text-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding-left: 20px; /* adjust to position text correctly */
+  width: 100%;
+}
+
+.line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bold-left {
+  font-family: 'CM Bold';
+}
+
+.regular-right {
+  font-family: 'CM Regular';
+}
+
+.italic-left {
+  font-family: 'CM Italic';
+  font-weight: inherit;
+  font-size: smaller;
+}
+
+.italic-right {
+  font-family: 'CM Italic';
+  font-size: smaller;
+}
+
+.section-header-container {
+  border-bottom: 0.8px solid #000;
+  margin-bottom: 0.5em;
+}
+
+.section-header {
+  font-family: 'CM Regular Alt';
+  font-size: larger;
+  font-variant-caps: small-caps;
+}
+
+#root {
+  font-family: 'CM Regular';
+  font-kerning: normal;
+  margin: 2em;
+  margin-left: 4em;
 }

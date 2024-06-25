@@ -1,14 +1,12 @@
 import './App.css';
+import EducationSection from './components/EducationSection';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Ceci n'est pas une webpage</h1>
-        <p>🚧 This page is under construction. Check back later. 🚧</p>
-      </header>
-    </div>
+    <>
+      <EducationSection />
+    </>
   );
-}
+};
 
 export default App;

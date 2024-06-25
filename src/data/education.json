@@ -1,0 +1,14 @@
+[
+    {
+        "school": "Stony Brook University",
+        "location": "Stony Brook, NY",
+        "degree": "Master of Science in Computer Science; GPA: 3.81/4.00",
+        "time_period": "August 2022 \u2014 May 2024"
+    },
+    {
+        "school": "Veermata Jijabai Technological Institute",
+        "location": "Mumbai, India",
+        "degree": "B.Tech. in Information Technology; CGPA: 8.63/10.00",
+        "time_period": "July 2014 \u2014 May 2018"
+    }
+]
