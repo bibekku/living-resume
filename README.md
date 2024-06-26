@@ -4,7 +4,7 @@ An interactive version of my (Vivek Maurya's) resume.
 To see it in action, visit https://bibekku.github.io/living-resume
 
 ## TODOs
-- [ ] Sub-list item component
+- [x] Sub-list item component
 - [ ] Experience Section
 - [ ] Projects Section
 - [ ] Programming Skills Section
