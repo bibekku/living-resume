@@ -12,6 +12,6 @@ To see it in action, visit https://bibekku.github.io/living-resume
 - [ ] Collapsible "embellishments"
 - [ ] Chip component for programming languages / technologies
 - [ ] Chipset
-- [ ] Alternate CSS for mobile portrait
+- [x] Alternate CSS for mobile portrait
 - [ ] Chip-based filtering
 - [ ] ...?

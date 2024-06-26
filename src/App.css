@@ -43,6 +43,13 @@
   width: 100%;
 }
 
+@media screen and (orientation: portrait) {
+  .line {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .line {
   display: flex;
   justify-content: space-between;
