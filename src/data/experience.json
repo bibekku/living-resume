@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Amazon \u2014 Amazon Pay",
+        "company_location": "Bangalore, India",
+        "role": "Software Development Engineer \u2013 Intern",
+        "team": "Amazon Pay",
+        "time_duration": "May 2017 \u2013 Jul 2017",
+        "details": [
+            {
+                "title": "Data Migration Pipeline",
+                "description": "Created a data migration pipeline that would facilitate the backfilling of millions of entries of historical transaction data from an Amazon-internal database platform to AWS DynamoDB."
+            },
+            {
+                "title": "Dummy Data Generator",
+                "description": "Wrote a Java library that generated random dummy JSON data en masse based on a supplied specification, to test the data migration pipeline."
+            }
+        ]
+    },
+    {
+        "company": "Amazon \u2014 Alexa Money Domain",
+        "company_location": "Bangalore, India",
+        "role": "Software Development Engineer",
+        "team": "Alexa Money Domain",
+        "time_duration": "Jun 2018 \u2013 Jan 2021",
+        "details": [
+            {
+                "title": "Developer Operations",
+                "description": "Participated in developer operations for my team's owned services. This included overseeing code deployment pipelines, maintaining integration tests, and troubleshooting alarms."
+            },
+            {
+                "title": "“Alexa, Pay for Gas!”",
+                "description": "Wrote Natural Language Understanding (NLU) grammars for several Alexa Money Domain projects using an Alexa-internal Domain Specific Language."
+            },
+            {
+                "title": "Political Donations using Alexa",
+                "description": "Worked on the NLU and Java backend components for enabling donations to US 2020 presidential election candidates. Worked on making the involved systems compliant with US Federal and state laws."
+            },
+            {
+                "title": "Amazon Pay components on the Alexa mobile app",
+                "description": "Implemented Amazon Pay's UI elements on the Alexa mobile app on Android and iOS. Used the React Native framework and TypeScript. Performed testing using Android Studio and XCode."
+            },
+            {
+                "title": "Merchant Payments using Alexa",
+                "description": "Worked on enabling the Alexa payments platform in Europe and Japan regions."
+            }
+        ]
+    },
+    {
+        "company": "(Freelance)",
+        "company_location": "(remotely from) Mumbai, India",
+        "role": "Software Developer",
+        "team": "On the Fiverr platform",
+        "time_duration": "May 2021 \u2013 Jun 2022",
+        "details": [
+            {
+                "title": "Tutoring",
+                "description": "Tutored two students over Zoom. Courses included Object Oriented Programming and Design Patterns in Java."
+            },
+            {
+                "title": "World Factbook Scraper",
+                "description": "Wrote a node.js library to scrape CIA's World Factbook."
+            }
+        ]
+    },
+    {
+        "company": "Stony Brook University",
+        "company_location": "Stony Brook, NY",
+        "role": "Teaching Assistant",
+        "team": "Prof. Ahmad Esmaili",
+        "time_duration": "Aug 2022 \u2013 Dec 2022; Jun 2023 \u2013 Aug 2023",
+        "details": [
+            {
+                "title": "CSE214 \u2013 Data Structures",
+                "description": "Hosting office hours, hosting recitations, grading assignments and exam papers.",
+                "keywords": ["Java"]
+            },
+            {
+                "title": "CSE114 \u2013 Intro. to Object-Oriented Programming",
+                "description": "Hosting office hours, hosting recitations, grading assignments and exam papers.",
+                "keywords": ["Java"]
+            }
+        ]
+    }
+]

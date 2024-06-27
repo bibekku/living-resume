@@ -23,7 +23,7 @@
   align-items: center;
   position: relative;
   padding-left: 20px;
-  margin-bottom: 0.7em;
+  margin-bottom: 0.2em;
 }
 
 .sub-bullet-list-item {
@@ -32,7 +32,11 @@
   position: relative;
   padding-left: 20px;
   margin-left: 20px;
-  margin-bottom: 0.7em;
+  margin-bottom: 0.2em;
+}
+
+.experience-item-container {
+  margin-bottom: 1em;
 }
 
 .solid-bullet {
@@ -85,12 +89,10 @@
 .italic-left {
   font-family: 'CM Italic';
   font-weight: inherit;
-  font-size: smaller;
 }
 
 .italic-right {
   font-family: 'CM Italic';
-  font-size: smaller;
 }
 
 .section-header-container {
