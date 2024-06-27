@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/living-resume/static/css/main.e028b31e.css",
-    "main.js": "/living-resume/static/js/main.d5f52ce7.js",
+    "main.css": "/living-resume/static/css/main.0a184122.css",
+    "main.js": "/living-resume/static/js/main.5d7f439d.js",
     "static/media/cmunci.ttf": "/living-resume/static/media/cmunci.f6d7498a76bded8660db.ttf",
     "static/media/cmunui.ttf": "/living-resume/static/media/cmunui.efa92afa8b3b79bedd67.ttf",
     "static/media/cmunrm.ttf": "/living-resume/static/media/cmunrm.8ff5cee913df84291549.ttf",
     "static/media/cmunbx.ttf": "/living-resume/static/media/cmunbx.c97a73040fda7e3cb554.ttf",
     "index.html": "/living-resume/index.html",
-    "main.e028b31e.css.map": "/living-resume/static/css/main.e028b31e.css.map",
-    "main.d5f52ce7.js.map": "/living-resume/static/js/main.d5f52ce7.js.map"
+    "main.0a184122.css.map": "/living-resume/static/css/main.0a184122.css.map",
+    "main.5d7f439d.js.map": "/living-resume/static/js/main.5d7f439d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e028b31e.css",
-    "static/js/main.d5f52ce7.js"
+    "static/css/main.0a184122.css",
+    "static/js/main.5d7f439d.js"
   ]
 }
